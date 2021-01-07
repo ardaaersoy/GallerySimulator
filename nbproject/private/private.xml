@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Vehicles/Car.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Decorator/Modifications/GlassCeiling.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Decorator/Modifications/Exhaust.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Vehicles/CarInterface.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/EngineOffCommand.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Main/GallerySys.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Vehicles/Bus.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Iterator/TruckIterator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Adapter/MotorcycleInterface.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Iterator/BusIterator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Main/Vehicle.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Vehicles/Truck.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Adapter/MotorcycleAdapter.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/RemoteControl.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/DoorOpenCommand.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Adapter/Motorcycle.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Iterator/CarIterator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Singleton/SingletonGallery.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Decorator/ModifiedDecorator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/EngineOnCommand.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Decorator/Modifications/Rim.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Iterator/VehicleCatalog.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Iterator/VehicleCreateIterator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Main/GallerySimulator.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/NoCommand.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/CommandInterface.java</file>
+            <file>file:/D:/DesingPatternProject2/DesignPatternProject2/src/Command/DoorCloseCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
